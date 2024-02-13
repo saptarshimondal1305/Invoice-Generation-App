@@ -3,7 +3,6 @@ import { Button, Card, Table } from "react-bootstrap";
 import { BiSolidPencil } from "react-icons/bi";
 import { useProductListData } from "../../redux/hooks";
 import ProductForm from "../../components/Product/ProductForm";
-import HomeWrapper from "../HomeWrapper";
 
 const ProductList = () => {
   const { productList } = useProductListData();
