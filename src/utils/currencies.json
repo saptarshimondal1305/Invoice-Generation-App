@@ -1,0 +1,10 @@
+{
+  "$": "USD (United States Dollar)",
+  "£": "GBP (British Pound Sterling)",
+  "¥": "JPY (Japanese Yen)",
+  "C$": "CAD (Canadian Dollar)",
+  "A$": "AUD (Australian Dollar)",
+  "S$": "SGD (Singapore Dollar)",
+  "元": "CNY (Chinese Renminbi)",
+  "₿": "BTC (Bitcoin)"
+}
